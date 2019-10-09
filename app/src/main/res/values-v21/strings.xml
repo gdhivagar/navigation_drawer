@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chat">Chat</string>
+    <string name="group">Group</string>
+    <string name="communicate">Communicate</string>
+    <string name="my_name">My name</string>
+    <string name="my_email">My email</string>
+</resources>

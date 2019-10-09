@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="home">Home</string>
+    <string name="chat">Chat</string>
+    <string name="group">Group</string>
+    <string name="settings">Settings</string>
+    <string name="message">Message</string>
+    <string name="profile">Profile</string>
+
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="communicate">Communicate</string>
+    <string name="my_name">My name</string>
+    <string name="my_email">My email</string>
+</resources>
